@@ -1,1 +1,3 @@
-# This is biggest hedder.
+# This is biggest header.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
